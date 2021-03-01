@@ -1,0 +1,20 @@
+body{
+    background-color: #444;
+    color: white;
+}
+
+#formulario-pergunta{
+    margin-top: 5vh;
+}
+.nav-color{
+    background-color: crimson !important;
+}
+.card-color-dark{
+    background-color: rgb(99, 99, 99);
+}
+.card-resposta {
+    color: #444;
+}
+.img-nav{
+    width: 100px;
+}
